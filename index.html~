@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Page Test</title>
+	<title>Хрен Вам по всей морде</title>
 </head>
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <body>
@@ -10,3 +11,10 @@
 </body>
 >>>>>>> new-contacts
 </html>
+=======
+
+<body>
+	<div>Звоните по телефону +79823080216</div>
+</body>
+ </html>
+>>>>>>> new-header
