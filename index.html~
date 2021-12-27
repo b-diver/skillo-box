@@ -9,7 +9,12 @@
 </head>
 
 <body>
+<<<<<<< HEAD
 	<h1>Главная</h1>
 	<div>Звоните по телефону +79000866639</div>
+=======
+	<div>Звоните по телефону +79823080216</div>
+	<div>www.github.com</div>
+>>>>>>> new-header
 </body>
  </html>
